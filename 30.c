@@ -24,7 +24,7 @@ int main(){
         printf("area of the circle is %f",area_circle);
         break;
         case 'T':
-        printf("area of the triangle is %2f",area_triangle);
+        printf("area of the triangle is %.2f",area_triangle);
         break;
         default:
         printf("invalid input");
