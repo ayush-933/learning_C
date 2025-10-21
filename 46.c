@@ -4,9 +4,10 @@
 int main(){
 
  char password[11];
+ gets(password);
  printf("enter the password:");
-    scanf("%10s", password);
-    if (strcmp(password, "ayush00000") == 0)
+    scanf("%s", password);
+    if (strcmp(password, "ayush 00") == 0)
     {
         printf("welcome king ayush");
     }
