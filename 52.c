@@ -8,6 +8,6 @@ printf("the number is  %d \n",num );
  
 fscanf(ptr,"%d",&num);
 printf("the number is %d \n",num );
- 
+ fclose(ptr);
 return 0;
 }
