@@ -1,8 +1,0 @@
-gcc , 4198888
- -Wall , 3493888ayush , 4201099
- 32 , 39976632ayush , 32
- 2 , 39976632ayush , 32
- 3 , 4201008ayush , 32
- piyush , 33ayush , 33
- piyush , 34ayush39976632
-32¡ @
